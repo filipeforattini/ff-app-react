@@ -3,8 +3,8 @@ on: ['push']
 
 jobs:
 
-  Delivery:
-    uses: filipeforattini/ff-iac-github-actions/.github/workflows/app-push.yml@main
+  Build:
+    uses: filipeforattini/ff-iac-github-actions/.github/workflows/app.yml@main
     secrets: inherit
     with:
       mainBranch: main
@@ -12,14 +12,6 @@ jobs:
       staticAnalysis: false
       containerRegistry: ghcr.io
       nodeMatrix: '[17]'
-      environmentsAsNamespaces: true
-
-  Deploy:
-    uses: filipeforattini/ff-iac-github-actions/.github/workflows/app-deploy.yml@main
-    needs: Delivery
-    secrets: inherit
-    with:
-      containerRegistry: ghcr.io
       environmentsAsNamespaces: true
 
   Outputs:
