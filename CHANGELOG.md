@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/filipeforattini/ff-app-react/compare/v1.0.3...v1.1.0) (2022-07-06)
+
+
+### Features
+
+* added dockerfile ([0eede8d](https://github.com/filipeforattini/ff-app-react/commit/0eede8d5ff0ffec932343e09a8d7ff29f968c0b0))
+
 ## [1.0.3](https://github.com/filipeforattini/ff-app-react/compare/v1.0.2...v1.0.3) (2022-07-06)
 
 
