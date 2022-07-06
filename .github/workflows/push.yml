@@ -11,6 +11,7 @@ jobs:
       platforms: linux/amd64,linux/arm/v8,linux/arm64
       staticAnalysis: false
       containerRegistry: ghcr.io
+      nodeMatrix: '[17]'
       environmentsAsNamespaces: true
 
   Deploy:
