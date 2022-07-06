@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/filipeforattini/ff-app-react/compare/v1.1.1...v1.1.2) (2022-07-06)
+
+
+### Bug Fixes
+
+* empty commit for testing ([3be77fb](https://github.com/filipeforattini/ff-app-react/commit/3be77fb14225bb4f7955ac6c314498067a1ca84e))
+
 ## [1.1.1](https://github.com/filipeforattini/ff-app-react/compare/v1.1.0...v1.1.1) (2022-07-06)
 
 
