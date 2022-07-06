@@ -18,14 +18,6 @@ function App() {
           <code>MY_VAR</code> = {REACT_APP_MY_VAR}
         </p>
         <p>A={REACT_APP_A || ''} | B={REACT_APP_B || ''} | C={REACT_APP_C || ''}</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
