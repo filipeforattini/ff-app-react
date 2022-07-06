@@ -1,3 +1,11 @@
+## [1.1.7](https://github.com/filipeforattini/ff-app-react/compare/v1.1.6...v1.1.7) (2022-07-06)
+
+
+### Bug Fixes
+
+* empty commit for testing ([485bb6c](https://github.com/filipeforattini/ff-app-react/commit/485bb6c3bc1483cfa0379699461c5d4d349ffb16))
+* removed learn react string ([45c9a9f](https://github.com/filipeforattini/ff-app-react/commit/45c9a9fd12c7e0d786a20e71a1cc3c08197792f8))
+
 ## [1.1.6](https://github.com/filipeforattini/ff-app-react/compare/v1.1.5...v1.1.6) (2022-07-06)
 
 
