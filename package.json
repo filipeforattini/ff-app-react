@@ -16,7 +16,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "commit": "git pull && git commit --allow-empty -am \"fix: empty commit for testing\" && git push"
+    "commit": "git pull && git commit --allow-empty -am \"fix: empty commit for testing\" && git push",
+    "docker": "docker build --rm . --build-arg REACT_APP_MY_VAR=newvar -t react-app"
   },
   "eslintConfig": {
     "extends": [
