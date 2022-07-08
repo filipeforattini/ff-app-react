@@ -1,5 +1,5 @@
 name: push
-on: ['push', 'deploy']
+on: ['push', 'deployment']
 
 jobs:
 
