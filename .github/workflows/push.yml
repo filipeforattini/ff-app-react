@@ -3,6 +3,8 @@ name: pipeline
 on: 
   push:
   deployment:
+  release:
+    types: [created]
   pull_request:
     types: [opened, reopened]
 
