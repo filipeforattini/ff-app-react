@@ -1,5 +1,10 @@
-name: push
-on: ['push', 'deployment']
+name: pipeline
+
+on: 
+  push:
+  deployment:
+  pull_request:
+    types: [opened, reopened]
 
 jobs:
 
