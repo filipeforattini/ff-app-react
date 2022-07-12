@@ -10,7 +10,7 @@ on:
 
 jobs:
 
-  Build:
+  Pipeline:
     uses: filipeforattini/ff-iac-github-actions/.github/workflows/app.yml@main
     secrets: inherit
     with:
@@ -24,6 +24,6 @@ jobs:
   Outputs:
     runs-on: ubuntu-latest
     needs:
-      - Build
+      - Pipeline
     steps:
       - run: echo PipelineSetup = ${{ needs.Delivery.outputs.PipelineConfig }}
