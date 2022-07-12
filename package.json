@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "commit": "git pull && git commit --allow-empty -am \"fix: empty commit for testing\" && git push",
-    "full-commit": "cd ../git pull && git commit --allow-empty -am \"fix: empty commit for testing\" && git push",
+    "full-commit": "cd ../ff-iac-github-actions; npm run commit && cd ../ff-app-react; npm run commit",
     "docker": "docker build --rm . -t react-app"
   },
   "eslintConfig": {
