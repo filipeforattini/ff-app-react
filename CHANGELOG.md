@@ -1,3 +1,34 @@
+## [1.1.30](https://github.com/filipeforattini/ff-app-react/compare/v1.1.29...v1.1.30) (2022-07-12)
+
+
+### Bug Fixes
+
+* empty commit for testing ([8fa926f](https://github.com/filipeforattini/ff-app-react/commit/8fa926f8c283f91c59f0db5ddfbe4483ea2b8295))
+* empty commit for testing ([854fabd](https://github.com/filipeforattini/ff-app-react/commit/854fabdfba4282b35cb8dd338683be5566afd6f6))
+* empty commit for testing ([56e6c23](https://github.com/filipeforattini/ff-app-react/commit/56e6c239bd3063ff301d83270cf2842dfd1dd575))
+* empty commit for testing ([05d152e](https://github.com/filipeforattini/ff-app-react/commit/05d152eb16a0c94034a1974f7e412b3e15a90608))
+* empty commit for testing ([89bd64d](https://github.com/filipeforattini/ff-app-react/commit/89bd64d68c4d19affc254301dbfcc7ab1627074d))
+* empty commit for testing ([62a40e8](https://github.com/filipeforattini/ff-app-react/commit/62a40e85b5725909ae2cfac48e6465bc4f8a47f6))
+* empty commit for testing ([467ad4c](https://github.com/filipeforattini/ff-app-react/commit/467ad4cf85f05eb4e17c9e095af63272cbcb8221))
+* empty commit for testing ([2a68fe6](https://github.com/filipeforattini/ff-app-react/commit/2a68fe668b94284a2a797e5fd84044d0d8e84a5e))
+* empty commit for testing ([c428580](https://github.com/filipeforattini/ff-app-react/commit/c428580dcefa1d2bd3b9144522237b7db7d15452))
+* empty commit for testing ([663039c](https://github.com/filipeforattini/ff-app-react/commit/663039c54d3d3c4d0a2ef6a91d7add8829a88c0c))
+* empty commit for testing ([31c2634](https://github.com/filipeforattini/ff-app-react/commit/31c2634c87269d62a737ec6d08dbc1fe493fa1c4))
+* empty commit for testing ([cd7b07e](https://github.com/filipeforattini/ff-app-react/commit/cd7b07ef884a93a2088bcc9818ddf26bf1ceecaa))
+* empty commit for testing ([d8cf08c](https://github.com/filipeforattini/ff-app-react/commit/d8cf08c92f81b2f01d37aa25830dc23c268e8523))
+* empty commit for testing ([2935019](https://github.com/filipeforattini/ff-app-react/commit/2935019be828caa00dc8d1f9bbfc80972f6c6f19))
+* empty commit for testing ([4f57c0c](https://github.com/filipeforattini/ff-app-react/commit/4f57c0cadcf9db720ca45de423c35b99fa103b7f))
+* empty commit for testing ([c68d8c5](https://github.com/filipeforattini/ff-app-react/commit/c68d8c57f8a60388657d000b7c022a3193553d46))
+* empty commit for testing ([69e0514](https://github.com/filipeforattini/ff-app-react/commit/69e05148ce6ed4ad0a446d30ac07bbc71797e200))
+* empty commit for testing ([22996bc](https://github.com/filipeforattini/ff-app-react/commit/22996bc3988f0492f7532f936a0c6a6cd736ecad))
+* empty commit for testing ([0b3418b](https://github.com/filipeforattini/ff-app-react/commit/0b3418bf4e3ff56b5d4cec57e036968b8206e0a4))
+* empty commit for testing ([1f3c660](https://github.com/filipeforattini/ff-app-react/commit/1f3c6605f4de546c693c27845befc93b4515fcd7))
+* empty commit for testing ([418f881](https://github.com/filipeforattini/ff-app-react/commit/418f88177a2883473928140eddd3b30c14c6f5ae))
+* empty commit for testing ([86ab50a](https://github.com/filipeforattini/ff-app-react/commit/86ab50a6f49d819b4c295f0e11aaa30f1f4bf095))
+* empty commit for testing ([e8cf1dd](https://github.com/filipeforattini/ff-app-react/commit/e8cf1ddd0c7be59f3bcef1d3c075675084bcda97))
+* empty commit for testing ([7658706](https://github.com/filipeforattini/ff-app-react/commit/7658706127b608290f590fecb5c2b020eeadf4c6))
+* empty commit for testing ([fd18d06](https://github.com/filipeforattini/ff-app-react/commit/fd18d06246323d74d1d3aa03df3a6bc0734a3b32))
+
 ## [1.1.29](https://github.com/filipeforattini/ff-app-react/compare/v1.1.28...v1.1.29) (2022-07-12)
 
 
