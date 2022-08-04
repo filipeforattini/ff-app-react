@@ -1,14 +1,12 @@
 # ff-app-react
  ![](https://github.com/filipeforattini/ff-app-react/actions/workflows/pipeline.yml/badge.svg) ![](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)
 
-This repository is an example of a `svc` to be built with [filipeforattini/ff-iac-github-actions](https://github.com/filipeforattini/ff-iac-github-actions) pipeline and deployed on Kubernetes.
+This repository is an example of a `app` to be built with [filipeforattini/ff-iac-github-actions](https://github.com/filipeforattini/ff-iac-github-actions) pipeline and deployed on Kubernetes.
 
-
-| Language | Framework | Docker |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="React" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="React" width="40" height="40"/> |
-| Node 17 | 18 | 1.23-alpine |
-
+| Language | Interpreter | Application | Docker |
+|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" height="38"> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg" height="38"> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" height="38"> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" height="38"> |
+| ECMAScript 2018	| 17 | 18 | 1.23-alpine |
 
 ## Environments
 
