@@ -1,6 +1,6 @@
 {
   "name": "ff-app-react",
-  "version": "1.1.135",
+  "version": "1.1.136",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
